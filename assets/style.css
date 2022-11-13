@@ -40,3 +40,13 @@ p {
     border: 5px solid rgb(44, 39, 90);
     box-shadow: 5px 10px #75747B;
   }
+
+code {
+    background-color: rgb(211, 211, 211);
+    border-color: rgb(62, 68, 70);    
+    padding: 0.125rem 0.25rem;
+    color: ##0B0A16;
+    border: 1px solid #000000;
+    font-size: .9rem;
+    border-radius: 6px;
+}
